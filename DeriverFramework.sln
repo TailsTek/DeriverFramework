@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFLoader", "DFLoader\DFLoader.csproj", "{AC8D34EE-78CF-4C89-ABE6-5464196E247B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DF", "DF\DF.csproj", "{715A32FB-5B61-43B0-860D-11185970171D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeriverFramework", "DF\DeriverFramework.csproj", "{715A32FB-5B61-43B0-860D-11185970171D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFPluginAPI", "DFPlugin\DFPluginAPI.csproj", "{F34A2D1B-D7A8-41BA-99C0-500FFB8C1D7D}"
 EndProject

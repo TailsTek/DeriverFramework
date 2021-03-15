@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/25vtUI/CjtCCiBgR4Hqlhr/KS+BgDq+NFIlDB8gHzPFu5Xox4J9xmSoF9fdyLd0rYkOinpr6t4Fjpagl41d3w==",
+  "dgSpecHash": "iBfEE5E+x8/WNx2s9YomoNYddTnr2lfEW0YsTUIyLhoNCAnDSjLbalbxVKUasRsvQgufATKUcreUEdphVvQ4sg==",
   "success": true,
-  "projectFilePath": "F:\\Gits\\DeriverFramework\\DF\\DF.csproj",
+  "projectFilePath": "F:\\Gits\\DeriverFramework\\DF\\DeriverFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Denis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

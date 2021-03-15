@@ -386,9 +386,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Gits\\DeriverFramework\\DF\\DF.csproj",
-      "projectName": "DF",
-      "projectPath": "F:\\Gits\\DeriverFramework\\DF\\DF.csproj",
+      "projectUniqueName": "F:\\Gits\\DeriverFramework\\DF\\DeriverFramework.csproj",
+      "projectName": "DeriverFramework",
+      "projectPath": "F:\\Gits\\DeriverFramework\\DF\\DeriverFramework.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
       "outputPath": "F:\\Gits\\DeriverFramework\\DF\\obj\\",
       "projectStyle": "PackageReference",
