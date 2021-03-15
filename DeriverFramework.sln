@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFTest", "DFTest\DFTest.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTools", "DTools\DTools.csproj", "{F4E30AC7-F976-4220-8245-FD5762BD635B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastConsoleWriter", "FastConsoleWriter\FastConsoleWriter\FastConsoleWriter.csproj", "{BE491523-A4E5-417A-9466-7AE1BE308890}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F4E30AC7-F976-4220-8245-FD5762BD635B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4E30AC7-F976-4220-8245-FD5762BD635B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4E30AC7-F976-4220-8245-FD5762BD635B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE491523-A4E5-417A-9466-7AE1BE308890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE491523-A4E5-417A-9466-7AE1BE308890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE491523-A4E5-417A-9466-7AE1BE308890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE491523-A4E5-417A-9466-7AE1BE308890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

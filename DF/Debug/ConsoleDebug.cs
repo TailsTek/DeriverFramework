@@ -19,7 +19,7 @@ namespace DF.Debug
     {
         public delegate DResult ActionResult(params CParameter[] paramms);
         internal static FastConsoleWriter.Console FConsole;
-        internal static void WriteLine(string text, ConsoleColor cc = ConsoleColor.Gray)
+        public static void WriteLine(string text, ConsoleColor cc = ConsoleColor.Gray)
         {
             if (FConsole is null)
             {

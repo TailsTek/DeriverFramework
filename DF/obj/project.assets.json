@@ -76,6 +76,16 @@
         "runtime": {
           "bin/placeholder/DFPluginAPI.dll": {}
         }
+      },
+      "FastConsoleWriter/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FastConsoleWriter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FastConsoleWriter.dll": {}
+        }
       }
     }
   },
@@ -354,11 +364,17 @@
       "type": "project",
       "path": "../DFPlugin/DFPluginAPI.csproj",
       "msbuildProject": "../DFPlugin/DFPluginAPI.csproj"
+    },
+    "FastConsoleWriter/1.0.0": {
+      "type": "project",
+      "path": "../FastConsoleWriter/FastConsoleWriter/FastConsoleWriter.csproj",
+      "msbuildProject": "../FastConsoleWriter/FastConsoleWriter/FastConsoleWriter.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "DFPluginAPI >= 1.0.0",
+      "FastConsoleWriter >= 1.0.0",
       "NETStandard.Library >= 2.0.3",
       "System.Memory >= 4.5.4"
     ]
@@ -397,6 +413,9 @@
           "projectReferences": {
             "F:\\Gits\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj": {
               "projectPath": "F:\\Gits\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj"
+            },
+            "F:\\Gits\\DeriverFramework\\FastConsoleWriter\\FastConsoleWriter\\FastConsoleWriter.csproj": {
+              "projectPath": "F:\\Gits\\DeriverFramework\\FastConsoleWriter\\FastConsoleWriter\\FastConsoleWriter.csproj"
             }
           }
         }

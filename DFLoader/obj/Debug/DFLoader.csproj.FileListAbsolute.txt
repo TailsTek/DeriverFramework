@@ -4,3 +4,9 @@ C:\Users\Denis\source\repos\DeriverFramework\DFLoader\obj\Debug\DFLoader.csproj.
 C:\Users\Denis\source\repos\DeriverFramework\DFLoader\obj\Debug\DFLoader.dll
 C:\Users\Denis\source\repos\DeriverFramework\DFLoader\obj\Debug\DFLoader.pdb
 C:\Users\Denis\source\repos\DeriverFramework\DFLoader\obj\Debug\DFLoader.csprojAssemblyReference.cache
+F:\Gits\DeriverFramework\DFLoader\bin\Debug\DFLoader.dll
+F:\Gits\DeriverFramework\DFLoader\bin\Debug\DFLoader.pdb
+F:\Gits\DeriverFramework\DFLoader\obj\Debug\DFLoader.csprojAssemblyReference.cache
+F:\Gits\DeriverFramework\DFLoader\obj\Debug\DFLoader.csproj.CoreCompileInputs.cache
+F:\Gits\DeriverFramework\DFLoader\obj\Debug\DFLoader.dll
+F:\Gits\DeriverFramework\DFLoader\obj\Debug\DFLoader.pdb

@@ -18,3 +18,11 @@ F:\Gits\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.AssemblyInfo.cs
 F:\Gits\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.csproj.CoreCompileInputs.cache
 F:\Gits\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.dll
 F:\Gits\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.pdb
+F:\Gits\DeriverFramework\DF\bin\Debug\netstandard2.0\DF.deps.json
+F:\Gits\DeriverFramework\DF\bin\Debug\netstandard2.0\DF.dll
+F:\Gits\DeriverFramework\DF\bin\Debug\netstandard2.0\DF.pdb
+F:\Gits\DeriverFramework\DF\bin\Debug\netstandard2.0\DFPluginAPI.dll
+F:\Gits\DeriverFramework\DF\bin\Debug\netstandard2.0\FastConsoleWriter.dll
+F:\Gits\DeriverFramework\DF\bin\Debug\netstandard2.0\DFPluginAPI.pdb
+F:\Gits\DeriverFramework\DF\bin\Debug\netstandard2.0\FastConsoleWriter.pdb
+F:\Gits\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.csproj.CopyComplete
