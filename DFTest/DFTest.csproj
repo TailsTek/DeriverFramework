@@ -54,7 +54,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DF\DeriverFramework.csproj">
+    <ProjectReference Include="..\DeriverFramework\DeriverFramework.csproj">
       <Project>{715a32fb-5b61-43b0-860d-11185970171d}</Project>
       <Name>DeriverFramework</Name>
     </ProjectReference>
