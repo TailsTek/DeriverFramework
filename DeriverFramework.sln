@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFLoader", "DFLoader\DFLoader.csproj", "{AC8D34EE-78CF-4C89-ABE6-5464196E247B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DF", "DF\DF.csproj", "{715A32FB-5B61-43B0-860D-11185970171D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFPluginAPI", "DFPlugin\DFPluginAPI.csproj", "{F34A2D1B-D7A8-41BA-99C0-500FFB8C1D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFTest", "DFTest\DFTest.csproj", "{5132AE2F-DD6B-4F0D-97CE-F8CEBD6494D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTools", "DTools\DTools.csproj", "{F4E30AC7-F976-4220-8245-FD5762BD635B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastConsoleWriter", "F:\Gits\FastConsoleWriter\FastConsoleWriter\FastConsoleWriter.csproj", "{34028367-BA65-46B7-B82A-25FB172B3B06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8D34EE-78CF-4C89-ABE6-5464196E247B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8D34EE-78CF-4C89-ABE6-5464196E247B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8D34EE-78CF-4C89-ABE6-5464196E247B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8D34EE-78CF-4C89-ABE6-5464196E247B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{715A32FB-5B61-43B0-860D-11185970171D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715A32FB-5B61-43B0-860D-11185970171D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715A32FB-5B61-43B0-860D-11185970171D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715A32FB-5B61-43B0-860D-11185970171D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34A2D1B-D7A8-41BA-99C0-500FFB8C1D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34A2D1B-D7A8-41BA-99C0-500FFB8C1D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34A2D1B-D7A8-41BA-99C0-500FFB8C1D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34A2D1B-D7A8-41BA-99C0-500FFB8C1D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5132AE2F-DD6B-4F0D-97CE-F8CEBD6494D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5132AE2F-DD6B-4F0D-97CE-F8CEBD6494D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5132AE2F-DD6B-4F0D-97CE-F8CEBD6494D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5132AE2F-DD6B-4F0D-97CE-F8CEBD6494D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E30AC7-F976-4220-8245-FD5762BD635B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E30AC7-F976-4220-8245-FD5762BD635B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E30AC7-F976-4220-8245-FD5762BD635B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E30AC7-F976-4220-8245-FD5762BD635B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34028367-BA65-46B7-B82A-25FB172B3B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34028367-BA65-46B7-B82A-25FB172B3B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34028367-BA65-46B7-B82A-25FB172B3B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34028367-BA65-46B7-B82A-25FB172B3B06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C21F2A4A-C569-4C6B-95D5-B648D97B3E22}
+	EndGlobalSection
+EndGlobal

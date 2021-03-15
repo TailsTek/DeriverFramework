@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.AssemblyInfo.cs
+C:\Users\Denis\source\repos\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\DeriverFramework\DF\bin\Debug\netstandard2.0\DF.deps.json
+C:\Users\Denis\source\repos\DeriverFramework\DF\bin\Debug\netstandard2.0\DF.dll
+C:\Users\Denis\source\repos\DeriverFramework\DF\bin\Debug\netstandard2.0\DF.pdb
+C:\Users\Denis\source\repos\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.dll
+C:\Users\Denis\source\repos\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.pdb
+C:\Users\Denis\source\repos\DeriverFramework\DF\bin\Debug\netstandard2.0\DFPluginAPI.dll
+C:\Users\Denis\source\repos\DeriverFramework\DF\bin\Debug\netstandard2.0\DFPluginAPI.pdb
+C:\Users\Denis\source\repos\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.csproj.CopyComplete
+C:\Users\Denis\source\repos\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\DeriverFramework\DF\bin\Debug\netstandard2.0\FastConsoleWriter.dll
+C:\Users\Denis\source\repos\DeriverFramework\DF\bin\Debug\netstandard2.0\FastConsoleWriter.pdb

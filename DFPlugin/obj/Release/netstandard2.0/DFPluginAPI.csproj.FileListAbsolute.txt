@@ -1,0 +1,8 @@
+C:\Users\Denis\source\repos\DeriverFramework\DFPlugin\bin\Release\netstandard2.0\DFPluginAPI.deps.json
+C:\Users\Denis\source\repos\DeriverFramework\DFPlugin\bin\Release\netstandard2.0\DFPluginAPI.dll
+C:\Users\Denis\source\repos\DeriverFramework\DFPlugin\bin\Release\netstandard2.0\DFPluginAPI.pdb
+C:\Users\Denis\source\repos\DeriverFramework\DFPlugin\obj\Release\netstandard2.0\DFPluginAPI.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\DeriverFramework\DFPlugin\obj\Release\netstandard2.0\DFPluginAPI.AssemblyInfo.cs
+C:\Users\Denis\source\repos\DeriverFramework\DFPlugin\obj\Release\netstandard2.0\DFPluginAPI.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\DeriverFramework\DFPlugin\obj\Release\netstandard2.0\DFPluginAPI.dll
+C:\Users\Denis\source\repos\DeriverFramework\DFPlugin\obj\Release\netstandard2.0\DFPluginAPI.pdb

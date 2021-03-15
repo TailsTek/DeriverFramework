@@ -1,0 +1,6 @@
+C:\Users\Denis\source\repos\DeriverFramework\DFLoader\obj\Release\DFLoader.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\DeriverFramework\DFLoader\bin\Release\DFLoader.dll
+C:\Users\Denis\source\repos\DeriverFramework\DFLoader\bin\Release\DFLoader.pdb
+C:\Users\Denis\source\repos\DeriverFramework\DFLoader\obj\Release\DFLoader.dll
+C:\Users\Denis\source\repos\DeriverFramework\DFLoader\obj\Release\DFLoader.pdb
+C:\Users\Denis\source\repos\DeriverFramework\DFLoader\obj\Release\DFLoader.csprojAssemblyReference.cache
