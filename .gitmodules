@@ -1,0 +1,3 @@
+[submodule "FastConsoleWriter"]
+	path = FastConsoleWriter
+	url = https://github.com/TailsTek/FastConsoleWriter
