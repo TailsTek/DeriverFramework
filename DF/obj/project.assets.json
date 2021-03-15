@@ -76,16 +76,6 @@
         "runtime": {
           "bin/placeholder/DFPluginAPI.dll": {}
         }
-      },
-      "FastConsoleWriter/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/FastConsoleWriter.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FastConsoleWriter.dll": {}
-        }
       }
     }
   },
@@ -364,17 +354,11 @@
       "type": "project",
       "path": "../DFPlugin/DFPluginAPI.csproj",
       "msbuildProject": "../DFPlugin/DFPluginAPI.csproj"
-    },
-    "FastConsoleWriter/1.0.0": {
-      "type": "project",
-      "path": "F:\\Gits\\FastConsoleWriter\\FastConsoleWriter\\FastConsoleWriter.csproj",
-      "msbuildProject": "F:\\Gits\\FastConsoleWriter\\FastConsoleWriter\\FastConsoleWriter.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "DFPluginAPI >= 1.0.0",
-      "FastConsoleWriter >= 1.0.0",
       "NETStandard.Library >= 2.0.3",
       "System.Memory >= 4.5.4"
     ]
@@ -386,11 +370,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DF\\DF.csproj",
+      "projectUniqueName": "F:\\Gits\\DeriverFramework\\DF\\DF.csproj",
       "projectName": "DF",
-      "projectPath": "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DF\\DF.csproj",
+      "projectPath": "F:\\Gits\\DeriverFramework\\DF\\DF.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DF\\obj\\",
+      "outputPath": "F:\\Gits\\DeriverFramework\\DF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Microsoft\\Xamarin\\NuGet\\"
@@ -411,11 +395,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj": {
-              "projectPath": "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj"
-            },
-            "F:\\Gits\\FastConsoleWriter\\FastConsoleWriter\\FastConsoleWriter.csproj": {
-              "projectPath": "F:\\Gits\\FastConsoleWriter\\FastConsoleWriter\\FastConsoleWriter.csproj"
+            "F:\\Gits\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj": {
+              "projectPath": "F:\\Gits\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj"
             }
           }
         }

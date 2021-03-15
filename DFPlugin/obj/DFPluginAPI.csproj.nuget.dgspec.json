@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj": {}
+    "F:\\Gits\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj": {
+    "F:\\Gits\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj",
+        "projectUniqueName": "F:\\Gits\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj",
         "projectName": "DFPluginAPI",
-        "projectPath": "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj",
+        "projectPath": "F:\\Gits\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj",
         "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DFPlugin\\obj\\",
+        "outputPath": "F:\\Gits\\DeriverFramework\\DFPlugin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Microsoft\\Xamarin\\NuGet\\"

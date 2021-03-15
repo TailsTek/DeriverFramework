@@ -12,3 +12,9 @@ C:\Users\Denis\source\repos\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.cspr
 C:\Users\Denis\source\repos\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.csprojAssemblyReference.cache
 C:\Users\Denis\source\repos\DeriverFramework\DF\bin\Debug\netstandard2.0\FastConsoleWriter.dll
 C:\Users\Denis\source\repos\DeriverFramework\DF\bin\Debug\netstandard2.0\FastConsoleWriter.pdb
+F:\Gits\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.csprojAssemblyReference.cache
+F:\Gits\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.AssemblyInfoInputs.cache
+F:\Gits\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.AssemblyInfo.cs
+F:\Gits\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.csproj.CoreCompileInputs.cache
+F:\Gits\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.dll
+F:\Gits\DeriverFramework\DF\obj\Debug\netstandard2.0\DF.pdb

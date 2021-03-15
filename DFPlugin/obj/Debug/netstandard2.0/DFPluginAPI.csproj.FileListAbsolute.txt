@@ -7,3 +7,12 @@ C:\Users\Denis\source\repos\DeriverFramework\DFPlugin\obj\Debug\netstandard2.0\D
 C:\Users\Denis\source\repos\DeriverFramework\DFPlugin\obj\Debug\netstandard2.0\DFPluginAPI.csproj.CoreCompileInputs.cache
 C:\Users\Denis\source\repos\DeriverFramework\DFPlugin\obj\Debug\netstandard2.0\DFPluginAPI.dll
 C:\Users\Denis\source\repos\DeriverFramework\DFPlugin\obj\Debug\netstandard2.0\DFPluginAPI.pdb
+F:\Gits\DeriverFramework\DFPlugin\bin\Debug\netstandard2.0\DFPluginAPI.deps.json
+F:\Gits\DeriverFramework\DFPlugin\bin\Debug\netstandard2.0\DFPluginAPI.dll
+F:\Gits\DeriverFramework\DFPlugin\bin\Debug\netstandard2.0\DFPluginAPI.pdb
+F:\Gits\DeriverFramework\DFPlugin\obj\Debug\netstandard2.0\DFPluginAPI.csprojAssemblyReference.cache
+F:\Gits\DeriverFramework\DFPlugin\obj\Debug\netstandard2.0\DFPluginAPI.AssemblyInfoInputs.cache
+F:\Gits\DeriverFramework\DFPlugin\obj\Debug\netstandard2.0\DFPluginAPI.AssemblyInfo.cs
+F:\Gits\DeriverFramework\DFPlugin\obj\Debug\netstandard2.0\DFPluginAPI.csproj.CoreCompileInputs.cache
+F:\Gits\DeriverFramework\DFPlugin\obj\Debug\netstandard2.0\DFPluginAPI.dll
+F:\Gits\DeriverFramework\DFPlugin\obj\Debug\netstandard2.0\DFPluginAPI.pdb

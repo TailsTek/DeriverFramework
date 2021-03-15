@@ -28,7 +28,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DFPlugin\DFPluginAPI.csproj" />
-    <ProjectReference Include="F:\Gits\FastConsoleWriter\FastConsoleWriter\FastConsoleWriter.csproj" />
   </ItemGroup>
 
 </Project>

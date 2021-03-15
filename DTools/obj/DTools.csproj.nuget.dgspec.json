@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DTools\\DTools.csproj": {}
+    "F:\\Gits\\DeriverFramework\\DTools\\DTools.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DTools\\DTools.csproj": {
+    "F:\\Gits\\DeriverFramework\\DTools\\DTools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DTools\\DTools.csproj",
+        "projectUniqueName": "F:\\Gits\\DeriverFramework\\DTools\\DTools.csproj",
         "projectName": "DTools",
-        "projectPath": "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DTools\\DTools.csproj",
+        "projectPath": "F:\\Gits\\DeriverFramework\\DTools\\DTools.csproj",
         "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DTools\\obj\\",
+        "outputPath": "F:\\Gits\\DeriverFramework\\DTools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eNdZRJlJMvGyug/XQfA7XstjcSDuP6dl08QO1nP08AldgaQ1gEROliLSmE8+MUpul6eAfKtgg0b0mucV/wAhhA==",
+  "dgSpecHash": "pZDuNB1pxub9NsFD1LzWIDtgsdofW54f5C8Sm7Z8HoDkH09SsbJdeiB9L+8XfW1iUOz9Rgro3a8xe5h0OIG7Xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Denis\\source\\repos\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj",
+  "projectFilePath": "F:\\Gits\\DeriverFramework\\DFPlugin\\DFPluginAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Denis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
