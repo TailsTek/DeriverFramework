@@ -1,0 +1,14 @@
+F:\Gits\DeriverFramework\DeriverFramework\bin\Debug\netstandard2.0\DeriverFramework.deps.json
+F:\Gits\DeriverFramework\DeriverFramework\bin\Debug\netstandard2.0\DeriverFramework.dll
+F:\Gits\DeriverFramework\DeriverFramework\bin\Debug\netstandard2.0\DeriverFramework.pdb
+F:\Gits\DeriverFramework\DeriverFramework\bin\Debug\netstandard2.0\DFPluginAPI.dll
+F:\Gits\DeriverFramework\DeriverFramework\bin\Debug\netstandard2.0\FastConsoleWriter.dll
+F:\Gits\DeriverFramework\DeriverFramework\bin\Debug\netstandard2.0\DFPluginAPI.pdb
+F:\Gits\DeriverFramework\DeriverFramework\bin\Debug\netstandard2.0\FastConsoleWriter.pdb
+F:\Gits\DeriverFramework\DeriverFramework\obj\Debug\netstandard2.0\DeriverFramework.csprojAssemblyReference.cache
+F:\Gits\DeriverFramework\DeriverFramework\obj\Debug\netstandard2.0\DeriverFramework.AssemblyInfoInputs.cache
+F:\Gits\DeriverFramework\DeriverFramework\obj\Debug\netstandard2.0\DeriverFramework.AssemblyInfo.cs
+F:\Gits\DeriverFramework\DeriverFramework\obj\Debug\netstandard2.0\DeriverFramework.csproj.CoreCompileInputs.cache
+F:\Gits\DeriverFramework\DeriverFramework\obj\Debug\netstandard2.0\DeriverFramework.csproj.CopyComplete
+F:\Gits\DeriverFramework\DeriverFramework\obj\Debug\netstandard2.0\DeriverFramework.dll
+F:\Gits\DeriverFramework\DeriverFramework\obj\Debug\netstandard2.0\DeriverFramework.pdb
